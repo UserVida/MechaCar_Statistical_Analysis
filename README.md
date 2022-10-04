@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+The purpose of this project was to provide summary statistics for the different variables in car manufacturing as well as create visualizations based on the datasets and finally interpret the statistical test results of the different variables. 
+
 ## Linear Regression to Predict MPG
 
 <img width="560" alt="16 DEV 1" src="https://user-images.githubusercontent.com/97644424/174503488-b025cebc-d1af-4908-8dcf-228fd285f47b.png">
